@@ -6,7 +6,7 @@ O projeto utiliza **Java 17** e ainda está em construção, sendo atualizado co
 
 Ele reúne exemplos práticos desenvolvidos em sala e a correção das atividades propostas aos alunos.
 
----
+
 
 ## Estrutura do Projeto
 
@@ -20,7 +20,7 @@ Contém os códigos desenvolvidos em sala de aula. Esses arquivos servem como ma
 
 Contém a correção da primeira atividade proposta em sala.
 
----
+
 
 ## Como executar?
 
