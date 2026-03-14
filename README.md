@@ -20,7 +20,13 @@ Contém os códigos desenvolvidos em sala de aula. Esses arquivos servem como ma
 
 Contém a correção da primeira atividade proposta em sala.
 
+### 📦 atv2
 
+Contém a correção da segunda atividade proposta em sala.
+
+### 📦 atv3
+
+Contém a correção da segunda atividade proposta em sala.
 
 ## Como executar?
 
@@ -29,4 +35,4 @@ Contém a correção da primeira atividade proposta em sala.
 git clone https://github.com/almeidaluciana/pwi-java.git
 ```
 2. Abra o projeto na sua IDE (recomendado: IntelliJ).
-3. Execute a classe desejada dentro dos pacotes `exemplos` ou `atv1`.
+3. Execute a classe desejada dentro dos pacotes.
