@@ -1,5 +1,9 @@
 package atv3;
 
+/*
+ * Crie uma classe que represente um carro, que tenha como características o nome, o peso, a fabricante, a cor e o valor do carro. Crie também o metodo darDesconto() que servirá para diminuir o preço do carro e o metodo pintar(), que será responsável por mudar a cor do carro. Crie um carro no seu programa principal, utilize os métodos criados e mostre na tela o preço e a cor do carro antes e depois da utilização dos métodos.
+ */
+
 public class Carro {
     private String nome;
     private double peso;

@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
-        Carro carro = new Carro("Byed", 1200, "Chevrolet", "Preto", 100000);
+        Carro carro = new Carro("Dolphin", 1400, "BYD", "Preto", 150000);
 
         System.out.println("Preço: "+carro.getValorCarro());
         System.out.println("Cor: "+carro.getCor());
