@@ -26,7 +26,7 @@ Contém a correção da segunda atividade proposta em sala.
 
 ### 📦 atv3
 
-Contém a correção da segunda atividade proposta em sala.
+Contém a correção da terceira atividade proposta em sala.
 
 ## Como executar?
 
