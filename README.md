@@ -16,17 +16,9 @@ O projeto está organizado da seguinte forma:
 
 Contém os códigos desenvolvidos em sala de aula. Esses arquivos servem como material de apoio para estudo e revisão.
 
-### 📦 atv1
+### 📦 atv1, atv2 e atv3
 
-Contém a correção da primeira atividade proposta em sala.
-
-### 📦 atv2
-
-Contém a correção da segunda atividade proposta em sala.
-
-### 📦 atv3
-
-Contém a correção da terceira atividade proposta em sala.
+Contém a correção das atividades.
 
 ## Como executar?
 
