@@ -6,8 +6,6 @@ O projeto utiliza **Java 17** e ainda está em construção, sendo atualizado co
 
 Ele reúne exemplos práticos desenvolvidos em sala e a correção das atividades propostas aos alunos.
 
-
-
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
